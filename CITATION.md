@@ -1,68 +1,28 @@
-# Contributing to this project
+# ####
+Final Project: ####
 
-Welcome to the team! We appreciate your interest in contributing to our project. Your contributions make this project better.
+## Description
+#####
 
-Please take a moment to review these guidelines before getting started.
 
-## Prerequisites
+## Version
+1.0
 
-- Experience working with Python and the different libraries, such as Geopandas, Altair, NLTK, Beatifulsoup, Wordcloud and others
-- Experience using  geospatial data, web scrapping, Natural Language processing
-- Data driven analysis 
-- Interest in improving and creating new models and new ways to transform data into information  
+## Authors
+-Daniel Isita (UDG: Master in Data Science)
 
-    
-## Code of Conduct
+-Larisa Lopez (UDG: Master in Data Science)
 
-[Link to Code of Conduct]
+- Leonardo Pantoja (UDG: Master in Data Science)
 
-## How to Contribute
+## How to Cite
+To cite this project in academic work, please use the following BibTeX format:
 
-- Sharing best practices, experiences to improve the work done
-- Bringin new data to test the models
-- Sharing the information that is published here
-
-## Coding Guidelines
-
-[...]
-
-## Testing Guidelines
-
-[...]
-
-## Documentation
-
-[...]
-
-## Issue Tracker
-
-[...]
-
-## Pull Requests
-
-[...]
-
-## Review Process
-
-[...]
-
-## Communication Channels
-
-[...]
-
-## License and Legal
-
-[...]
-
-## Acknowledgments
-
-[...]
-
-## Contact Information
-
--disita  isita.daniel@gmail.com
-
--LLop8029  larisa.lopez8029@alumnos.udg.mx
-
--LeonardoDPantoja  leonardo.pantoja8032@alumnos.udg.mx
-
+```bibtex
+@software{####,
+    title = {#### },
+    author = {Daniel Isita, Larisa Lopez, Leonardo Pantoja},
+    year = {2023},
+    version = {1.0},
+    url = {https://github.com/LeonardoDPantoja/Final_Project.git},
+}

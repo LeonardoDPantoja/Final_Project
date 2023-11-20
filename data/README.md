@@ -1,5 +1,3 @@
-# Documents
+# Data
 
--Link noticias.txt file is showing the 10 links use for web scrapping
-
--Coppel7.png is the image use for mask for wordcloud excersice
+Folder to upload the raw data that is process in the project

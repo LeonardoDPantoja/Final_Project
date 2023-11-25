@@ -1,4 +1,4 @@
-# Final Project
+# Usando herramientas de Ciencia de Datos en empresa mexicana.
 
 Welcome to the repository dedicated to the culmination of the "Project Development" course within the Master's in Data Science (MCD) program at the University of Guadalajara. Within these files, you'll find the comprehensive work and results derived from the final project, which revolves around the exploration and analysis of a dataset closely tied to Larisa Lopez's thesis project.
 

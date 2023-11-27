@@ -34,4 +34,7 @@ Feel free to explore the various files and outcomes enclosed here, gaining a fir
 * using the page ["Usos y tipos de gráficos con la librería Altair"](https://altair-viz.github.io/index.htm) as base.
 * using the work ["Visualización con Altair"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/12_Viz_Altair.ipynb) of Victor Cuspinera as base.
 * Using the page ["Visualización de Datos con Altair"](https://medium.com/datos-y-ciencia/visualizaci%C3%B3n-de-datos-con-altair-297b0639448d) of Sergio Sánchez as base.
+* https://geopandas.org/en/stable/gallery/polygon_plotting_with_folium.html
+* https://matplotlib.org/stable/users/explain/colors/colormaps.html
+* https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/final
 

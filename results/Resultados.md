@@ -1,11 +1,6 @@
 
 # Principales resultados del proyecto
 
-
-```python
-
-```
-
 Este archivo contiene los principales resultados del proyecto, destacando las visualizaciones y gráficos creados con librerías como Altair. Además, se incluyen los resultados de consultas de información en redes sociales y/o en la web utilizando técnicas como web scraping.
 
 ## Visualizaciones y Gráficos

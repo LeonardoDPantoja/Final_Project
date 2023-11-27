@@ -28,5 +28,8 @@ Feel free to explore the various files and outcomes enclosed here, gaining a fir
 
 
 ## References 
-* using the paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal. as base.
+* using the paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) of Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal. as base.
+* using the page ["Usos y tipos de gráficos con la librería Altair"](https://altair-viz.github.io/index.htm) as base.
+* using the work ["Visualización con Altair"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/12_Viz_Altair.ipynb) of Victor Cuspinera as base.
+* Using the page ["Visualización de Datos con Altair"](https://medium.com/datos-y-ciencia/visualizaci%C3%B3n-de-datos-con-altair-297b0639448d) of Sergio Sánchez as base.
 

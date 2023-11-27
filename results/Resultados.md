@@ -53,8 +53,3 @@ Fuente: [Elaboración propia](https://github.com/LeonardoDPantoja/Final_Project/
 
 Fuente: [Elaboración propia](https://github.com/LeonardoDPantoja/Final_Project/blob/main/doc/IMAGES/mapa_gasto_alimentos.png)
 
-![]()
-
-<iframe src="https://github.com/LeonardoDPantoja/Final_Project/blob/main/doc/IMAGES/mapa_folium_gasto_dic_22.html" width="800" height="600"></iframe>
-
-

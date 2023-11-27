@@ -1,12 +1,14 @@
-# Usando herramientas de Ciencia de Datos en empresa mexicana.
+# Using Data Science tools in a Mexican Company.
 
-Welcome to the repository dedicated to the culmination of the "Project Development" course within the Master's in Data Science (MCD) program at the University of Guadalajara. Within these files, you'll find the comprehensive work and results derived from the final project, which revolves around the exploration and analysis of a dataset closely tied to Larisa Lopez's thesis project.
+Welcome to the repository dedicated to the culmination of the "Project Development" course within the Master's in Data Science (MCD) program at the University of Guadalajara. Within these files, you'll find the comprehensive work and results derived from the final project, which revolves around the exploration and analysis of a dataset closely tied to our thesis project.
+
+The thesis project consist in characterize and analyze the supply chain supply of a Mexican company in the area of internal purchasing to balance spending in the different types of stores through data science tools and develop a proposal for improvement in decision making and the return on investment.
 
 The primary objective of this project is to harness the power of Python's visual tools, encompassing diverse graphical representations and mapping techniques. Additionally, sophisticated analytical tools, including text analysis and Natural Language Processing (NLP), are employed to gain deeper insights into the dataset.
 
-As part of Larisa Lopez's pursuit of her academic goals, this project delves into the intricacies of her master's thesis, utilizing advanced data science methodologies. The repository provides a detailed account of the data exploration, visualization, and analytical processes undertaken to unravel the nuances of Larisa's research topic.
+As part of our pursuit and academic goals, this project delves into the intricacies of our master's thesis, utilizing advanced data science methodologies. The repository provides a detailed account of the data exploration, visualization, and analytical processes undertaken to unravel the nuances of our research topic.
 
-Feel free to explore the various files and outcomes enclosed here, gaining a firsthand understanding of the application of visual and analytical tools in the context of Larisa Lopez's compelling thesis project.
+Feel free to explore the various files and outcomes enclosed here, gaining a firsthand understanding of the application of visual and analytical tools in the context of our compelling thesis project.
 
 ## Repository Structure
 
